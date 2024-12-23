@@ -1,0 +1,13 @@
+.css */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  text-align: center;
+}
+
+.error-404 {
+  max-width: 600px;
+  margin: 0 auto;
+}

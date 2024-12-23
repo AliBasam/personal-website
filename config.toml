@@ -1,0 +1,18 @@
+# Base URL of the site, the only required config argument
+base_url = "https://alialtekreeti.com"
+
+
+title = "Ali Al-Tekreeti"
+description = "Ali's Portfolio"
+default_language = "en"
+
+# Whether to compile the Sass files found in the `sass` directory
+compile_sass = true
+
+[extra]
+
+hermit_menu = [
+    { link = "mailto:aaltekreeti1@gmail.com", name = "Contact" },
+    { link = "https://www.behance.net/alialtekreeti", name = "Work" },
+    { link = "https://instagram.com/ali_altekreeti", name = "Instagram"}
+]
